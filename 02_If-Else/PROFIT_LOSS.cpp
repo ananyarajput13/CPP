@@ -18,5 +18,6 @@ int main()
     else
         cout << "No Profit No Loss";
 
+        
     return 0;
 }

@@ -1,4 +1,3 @@
-
 #include <iostream>
 using namespace std;
 
@@ -15,8 +14,7 @@ int main()
         i++;
     }
 
-    cout << "Sum of Natural Numbers = " << sum;
+    cout << "Sum = " << sum;
 
     return 0;
 }
-
